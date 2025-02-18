@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Michael Papamikroulis
 
-<!--
-**Mikegr1990/Mikegr1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Environmental Consultant** transitioning into **Data Analytics** with a strong passion for **data-driven sustainability solutions**. 
 
-Here are some ideas to get you started:
+💡 **What I Do:**
+- Analyzing environmental data for sustainability & compliance 📊
+- Building projects with **Python, SQL, Power BI, and Tableau** 🚀
+- Exploring **Data Science & Business Intelligence** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack:**  
+- **Languages:** Python, SQL  
+- **Databases:** MySQL, PostgreSQL  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Other:** Excel, Git, Jupyter Notebooks  
+
+🔍 **What I’m Looking For:**  
+- Data Analyst / Business Intelligence roles  
+- Remote or freelance opportunities in analytics  
+- Collaborations on sustainability-focused data projects  
+
+📫 **Connect With Me:**  
+[LinkedIn](https://www.linkedin.com/in/michael-papamikroulis) | [GitHub](https://github.com/Mikegr1990) | [Tableau](https://public.tableau.com/app/profile/michael.papamikroulis)
