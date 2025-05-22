@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Michael Papamikroulis
 
-I am a **Senior Environmental Consultant** and **Data Analyst** with a strong passion for **data-driven sustainability solutions**. 
+I am a **Senior Environmental Consultant** and **Aspiring Data Analyst** with a strong passion for **data-driven sustainability solutions**. 
 
 💡 **What I Do:**
 - Analyzing environmental data for sustainability & compliance 📊
